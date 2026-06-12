@@ -205,7 +205,7 @@ int main() {
          << fixed << setprecision(2)
          << porcentajeCama << "%\n";
 
-    // Finalizo con un mensaje simple para esta rama nueva.
+    // Finalizo con un mensaje simple para esta rama nueva. //XD
     // Autor: Isai Rutman Mercado Clemente
     // Correo: 76505332@continental.edu.pe
     if(porcentajeCama >= 75)
