@@ -66,7 +66,7 @@ int main() {
             cumplimiento[i]=false;
     }
 
-    // Agregado por Miguel Sebastian Sotacuro Barrientos
+    // Agregado por Miguel Sebastian Sotacuro Barrientos //XD
     // Correo: [74458804@continental.edu.pe](74458804@continental.edu.pe)
     // En esta sección estoy creando la rama Limpieza de la habitacion
     string limpiezaTareas[4] = {
