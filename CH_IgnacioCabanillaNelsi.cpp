@@ -53,7 +53,7 @@ int main() {
 
     char respuesta;
 
-    // Agregado por Nelsi Ignacio Cabanilla
+    // Agregado por Nelsi Ignacio Cabanilla //XD
     // Correo: [76209832@continental.edu.pe](76209832@continental.edu.pe)
     // Aqui tengo las tareas de la rama de orden personal y estudio
     // Autor: Nelsi Ignacio Cabanilla - Correo: [76209832@continental.edu.pe](76209832@continental.edu.pe)

@@ -20,7 +20,7 @@ int main() {
         "Revision general de la habitacion"
     };
 
-    // Agregado por Markoantonio Quinteros Serpa
+    // Agregado por Markoantonio Quinteros Serpa //XD
     // Correo: [61654091@continental.edu.pe](61654091@continental.edu.pe)
 
     // En esta parte estoy creando la seccion de organizacion de la ropa
